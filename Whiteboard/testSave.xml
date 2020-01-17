@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_152" class="java.beans.XMLDecoder">
+ <array class="edu.sjsu.whiteboard.models.DShapeModel" length="0"/>
+ <string>saved dModelArray into xml</string>
+</java>
